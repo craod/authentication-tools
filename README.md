@@ -5,7 +5,7 @@ Tools for authenticating with the Craod API through AngularJS
 
 <a name="requirements"></a>
 ## Requirements
-authentication-tools only requires AngularJS to work.
+authentication-tools requires AngularJS and angular-cookies (the ngCookies module) to work.
 
 <a name="installation"></a>
 ## Installation

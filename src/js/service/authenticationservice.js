@@ -34,7 +34,7 @@
 
 		/**
 		 * @ngdoc service
-		 * @name Craod.Admin:AuthenticationService
+		 * @name AuthenticationService
 		 * @description
 		 * Service that provides functions for authentication - logging in and out and validating
 		 */

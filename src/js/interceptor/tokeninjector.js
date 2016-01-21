@@ -28,7 +28,7 @@
 
 		/**
 		 * @ngdoc factory
-		 * @name Craod.Admin:TokenInjector
+		 * @name TokenInjector
 		 * @description
 		 * The TokenInjector is an interceptor that injects the token and guid into all requests if the user is logged in
 		 */
