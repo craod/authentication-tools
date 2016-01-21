@@ -1,0 +1,32 @@
+{
+	"name": "authentication-tools",
+	"version": "1.0.0",
+	"main": [
+		"dist/authentication-tools.js",
+		"dist/authentication-tools.min.js"
+	],
+	"ignore": [
+		"src",
+		".gitignore",
+		"tasks",
+		"gruntfile.js",
+		"package.json"
+	],
+	"keywords": [
+		"angular",
+		"authentication",
+		"injector"
+	],
+	"authors": [
+		{"name": "Andrés Angulo", "email": "andres@angulo.org"}
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/craod/authentication-tools.git"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"angular": "1.5",
+		"angular-cookies": "1.5"
+	}
+}
